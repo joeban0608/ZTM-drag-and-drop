@@ -1,6 +1,8 @@
 # ZTM-drag-and-drop
 This is pratice from ZTM classes: [javascript-web-projects-to-build-your-portfolio-resume-第十八章](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/?couponCode=ACCAGE0923)
 
+> [click to watch the demo](https://joeban0608.github.io/ZTM-drag-and-drop/)
+---
 resource:
 
 - custom scroll bar: https://css-tricks.com/the-current-state-of-styling-scrollbars-in-css/
